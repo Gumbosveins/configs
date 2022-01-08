@@ -1,0 +1,1 @@
+-novid -nojoy +cl_forcepreload 1-refresh 144  -tickrate 128 +exec autoexec.cfg
